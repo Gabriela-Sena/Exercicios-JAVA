@@ -1,4 +1,4 @@
-//Alunas: Gabriela Sena e Luísa Pedrolli    2TI
+
 import java.util.Scanner;
 import java.util.ArrayList;
 import java.util.Random;
