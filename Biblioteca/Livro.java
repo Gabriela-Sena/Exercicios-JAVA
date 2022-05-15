@@ -1,4 +1,4 @@
-//Alunas: Gabriela Sena e Luísa Pedrolli    2TI
+
 public class Livro {
     private String nome; //atributos criados
     private int isbn;
